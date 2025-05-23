@@ -1,2 +1,2 @@
 # Demo of Accordion Animation
-![image](https://github.com/teckann/laptop-selection-web/blob/main/gambar/index.png)
+![image](https://github.com/teckann/accordion-animation/blob/main/demo.png)
